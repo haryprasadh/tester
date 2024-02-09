@@ -1,3 +1,3 @@
 function func(){
-    navigator.vibrate(200);
+    navigator.vibrate([200, 100, 200]);
 }
